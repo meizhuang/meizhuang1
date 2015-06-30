@@ -13,6 +13,7 @@
 
 
 #import "ViewController.h"
+#import <Foundation/Foundation.h>
 
 @interface ViewController ()
 
@@ -26,8 +27,16 @@
     self.view.backgroundColor = [UIColor whiteColor];
 
     self.view.frame=CGRectMake(0, 0, 100, 100);
+    
+    
 
     // Do any additional setup after loading the view, typically from a nib.
+}
+
+
+- (void)sadfas
+{
+    self.view.frame = CGRectMake(0, 0, 0, 0);
 }
 
 - (void)didReceiveMemoryWarning {
