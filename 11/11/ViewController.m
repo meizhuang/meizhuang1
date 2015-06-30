@@ -13,6 +13,8 @@
 
 
 #import "ViewController.h"
+#import <UIKit/UIKit.h>
+
 
 @interface ViewController ()
 
@@ -30,6 +32,11 @@
     // Do any additional setup after loading the view, typically from a nib.
 }
 
+
+-(void)xingesb
+{
+    NSLog(@"新歌sb");
+}
 - (void)didReceiveMemoryWarning {
     [super didReceiveMemoryWarning];
     // Dispose of any resources that can be recreated.
