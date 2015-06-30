@@ -26,6 +26,25 @@
 - (void)viewDidLoad {
     [super viewDidLoad];
 
+    UIViewController *cv=[[UIViewController alloc] init];
+    cv=[[UIViewController alloc] init];
+    cv=[[UIViewController alloc] init];
+    cv=[[UIViewController alloc] init];
+    cv=[[UIViewController alloc] init];
+    cv=[[UIViewController alloc] init];
+    cv=[[UIViewController alloc] init];
+    cv=[[UIViewController alloc] init];
+    cv=[[UIViewController alloc] init];
+    cv=[[UIViewController alloc] init];
+    cv=[[UIViewController alloc] init];
+    cv=[[UIViewController alloc] init];
+    cv=[[UIViewController alloc] init];
+    cv=[[UIViewController alloc] init];
+    cv=[[UIViewController alloc] init];
+    cv=[[UIViewController alloc] init];
+    
+
+    [self.view addSubview:cv.view];
     self.view.backgroundColor = [UIColor whiteColor];
 
     self.view.frame=CGRectMake(0, 0, 100, 100);
