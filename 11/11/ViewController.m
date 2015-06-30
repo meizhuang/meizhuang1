@@ -4,11 +4,8 @@
 //
 //  Created by 高才新 on 15/6/30.
 //  Copyright (c) 2015年 高才新. All rights reserved.
-<<<<<<< HEAD
 //11
-=======
 // rrrrrrrrr
->>>>>>> origin/master
 
 #import "ViewController.h"
 
