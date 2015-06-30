@@ -13,12 +13,9 @@
 
 
 #import "ViewController.h"
-<<<<<<< HEAD
 #import <Foundation/Foundation.h>
-=======
 #import <UIKit/UIKit.h>
 
->>>>>>> origin/master
 
 @interface ViewController ()
 
@@ -39,18 +36,6 @@
 }
 
 
-<<<<<<< HEAD
-- (void)sadfas
-{
-    self.view.frame = CGRectMake(0, 0, 0, 0);
-}
-
-=======
--(void)xingesb
-{
-    NSLog(@"新歌sb");
-}
->>>>>>> origin/master
 - (void)didReceiveMemoryWarning {
     [super didReceiveMemoryWarning];
     // Dispose of any resources that can be recreated.
